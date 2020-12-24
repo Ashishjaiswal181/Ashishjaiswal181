@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at Iwane Labs. Sapporo, Japan.
-- 🌱 I’m currently learning Japanese, Data Visualization and 3D Graphics rendering.
+- 🌱 I’m currently learning Japanese, Data Visualization and Object detection.
 - 💬 Ask me about Computer Vision and Deep Neural Networks.
 - 📫 Reach me at Ashjai181@gmail.com
 - 😄 More about me [here](https://ashishjaiswal181.github.io/).
